@@ -12,14 +12,6 @@ A modern and elegant task management application built with Flutter. Taskeso hel
 - **Due Dates**: Set deadlines and receive reminders
 - **Progress Tracking**: Monitor your task completion rate
 
-## 📱 Screenshots
-
-<div style="display: flex; flex-direction: row;">
-  <img src="screenshots/home_screen.png" width="250" />
-  <img src="screenshots/task_details.png" width="250" />
-  <img src="screenshots/settings.png" width="250" />
-</div>
-
 ## 🚀 Getting Started
 
 ### Prerequisites
