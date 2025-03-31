@@ -58,7 +58,6 @@ A modern and elegant task management application built with Flutter. Taskeso hel
 - [Flutter](https://flutter.dev/) - UI framework
 - [Provider](https://pub.dev/packages/provider) - State management
 - [Hive](https://pub.dev/packages/hive) - Local database
-- [Firebase](https://firebase.google.com/) - Backend services
 
 ## 📝 Project Structure
 
@@ -85,10 +84,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📬 Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
 
 Project Link: [https://github.com/yourusername/taskeso](https://github.com/yourusername/taskeso)
 
