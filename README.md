@@ -11,8 +11,6 @@ A modern and elegant task management application built with Flutter. Taskeso hel
 - **Categories**: Organize tasks by categories or projects
 - **Due Dates**: Set deadlines and receive reminders
 - **Progress Tracking**: Monitor your task completion rate
-- **Dark/Light Theme**: Choose your preferred visual style
-- **Data Backup**: Sync your tasks across devices
 
 ## 📱 Screenshots
 
