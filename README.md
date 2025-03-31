@@ -1,6 +1,6 @@
 # Taskeso
 
-![Taskeso Logo](assets/images/logo.png)
+![Taskeso Logo](assets/images/ic_launcher.png)
 
 A modern and elegant task management application built with Flutter. Taskeso helps you organize your daily tasks, set priorities, and boost your productivity.
 
